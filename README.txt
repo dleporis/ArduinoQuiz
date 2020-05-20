@@ -12,12 +12,12 @@ Setup:
 7) Turn on the sound and run the Processing code. If the Arduino board is not responding, check the port name in Arduino app (right_bottom) and compare it to the printed list of USB ports in Processing. Then change the index number in the following code to match the USB serial port. It is usually between 0 and 3.
 String portName = Serial.list()[1]; 
 
-
 Enjoy the game:
 1) Choose the theme by one of 3 buttons.
 2) Game has 3 rounds
 3) Each round listen to the question, and choose the answer A, B or C by turning the potentiometer (time limit 10 seconds).
 4) After that, your answer will be evaluated, and you will move to the next round.
+
 Adding new questions:
 1) Record the new question with 3 options, one of them correct. This can be done for example by using smartphone recorder app. Use .mp3 format
 2) Rename the sound file to the following format: Question_THEME_number.mp3 Use number 1 higher than the highest number in the specific theme.
