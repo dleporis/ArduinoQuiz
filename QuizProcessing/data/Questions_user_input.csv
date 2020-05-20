@@ -1,0 +1,12 @@
+GEO_number,GEO_question_text,GEO_correct_answer,GEO_audio_file,BIO_number,BIO_question_text,BIO_correct_answer,BIO_audio_file,HIST_number,HIST_question_text,HIST_correct_answer,HIST_audio_file
+1,Capital of Denmark? (Copenhagen),A,Question_GEO_1.mp3,1,Which animal is a mammal? (dolphin),C,Question_BIO_1.mp3,1,which canal was first?(Suez),A,Question_HIST_1.mp3
+2,How many Bundesrepublik are in Germany? (16),A,Question_GEO_2.mp3,2,Genetic information storage (DNA),A,Question_BIO_2.mp3,2,Birth of danish queen (1940),B,Question_HIST_2.mp3
+3,Largest Africa lake (Victoria) ,A,Question_GEO_3.mp3,3,No. of human teeth (32),A,Question_BIO_3.mp3,3,Alaska sold (1867),B,Question_HIST_3.mp3
+4,Capital of Australia? (Canberra),B,Question_GEO_4.mp3,4, Digestion organ (stomach),A,Question_BIO_4.mp3,4,President abolishing slavery (Lincoln),B,Question_HIST_4.mp3
+5,People in denmark (5.8 million),C,Question_GEO_5.mp3,5,Vaccine inventor (Pasteour),A,Question_BIO_5.mp3,5,French revolution start (1789),A,Question_HIST_5.mp3
+6,States in USA (50),B,Question_GEO_6.mp3,6,Basic organism unit (cell),C,Question_BIO_6.mp3,6,WWII end (1945),B,Question_HIST_6.mp3
+7,Why do we have 4 seasons (axis is tilted),B,Question_GEO_7.mp3,7,Universal donor blood type (0),C,Question_BIO_7.mp3,7,Paper invented in (China),A,Question_HIST_7.mp3
+8,Lowest point (dead sea),B,Question_GEO_8.mp3,8,Metabolism hormone (insulin),A,Question_BIO_8.mp3,8,"M L King (preacher, civil rights)",B,Question_HIST_8.mp3
+,,,Question_GEO_9.mp3,,,,,9,1st roman emperor (Augustus),A,Question_HIST_9.mp3
+,,,,,,,,10,USA vs USSR (cold war),A,Question_HIST_10.mp3
+,,,,,,,,11,Never colonized (Ethiopia),A,Question_HIST_11.mp3
